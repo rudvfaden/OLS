@@ -35,5 +35,6 @@ lblx = ["cont","var1", "Var2", "Var3"]
 olstable(title,lbly,lblx,b,se,t,R2,R2adj,F,se,p)
 ```
 
+![Results](https://www.dropbox.com/s/69jqbbybh4lcpk6/Screenshot%20from%202015-02-11%2012%3A36%3A40.png?dl=1 "Results of Estimation")
 ## Requirements
 Distributions must be installed
