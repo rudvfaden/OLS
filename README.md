@@ -1,6 +1,6 @@
 # OLS
 
-A small package to estimate ols and print out a nice formatted table.
+A small julia package to estimate ols and print out a nice formatted table.
 
 ## Usage
 
